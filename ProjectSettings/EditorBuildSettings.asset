@@ -36,10 +36,10 @@ EditorBuildSettings:
     path: Assets/Tutorial.unity
     guid: 10989666a54105c4e9d1d711d0cd4b33
   - enabled: 1
-    path: Assets/1stZone.unity
+    path: Assets/Tutorial.unity
     guid: 591c6f8c69ff9f545ab6ae8f3a08b21e
   - enabled: 1
-    path: Assets/2ndZone.unity
+    path: Assets/MiniLevel.unity
     guid: 992f10a86c44a074ca75f6d9812a452a
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
